@@ -40,22 +40,22 @@ let vSpeed = 30;
 let cSpeed = 15;
 
 function preload() {
-    imgm = loadImage('asset/mikasa.png');
-    imge = loadImage('asset/eren.png');
-    imgl = loadImage('asset/levi.png');
-    imga = loadImage('asset/armin.png');
-    imgr = loadImage('asset/red.png');
-    imgr2 = loadImage('asset/red2.png');
-    imgg = loadImage('asset/grand.png');
-    imgw = loadImage('asset/wolf.png');
-    imgq = loadImage('asset/queen.png');
-    imgac = loadImage('asset/alice.png');
-    imgac2 = loadImage('asset/alice2.png');
-    imgrb = loadImage('asset/rabbit.png');
-    imgbgr = loadImage('asset/red_bg.png');
-    imgbga = loadImage('asset/alice_bg.png');
-    imgbgt = loadImage('asset/titan_bg.png');
-    font = loadFont('asset/EF_Diary.ttf');
+    imgm = loadImage('mikasa.png');
+    imge = loadImage('eren.png');
+    imgl = loadImage('levi.png');
+    imga = loadImage('armin.png');
+    imgr = loadImage('red.png');
+    imgr2 = loadImage('red2.png');
+    imgg = loadImage('grand.png');
+    imgw = loadImage('wolf.png');
+    imgq = loadImage('queen.png');
+    imgac = loadImage('alice.png');
+    imgac2 = loadImage('alice2.png');
+    imgrb = loadImage('rabbit.png');
+    imgbgr = loadImage('red_bg.png');
+    imgbga = loadImage('alice_bg.png');
+    imgbgt = loadImage('titan_bg.png');
+    font = loadFont('EF_Diary.ttf');
 }
 
 function setup() {
